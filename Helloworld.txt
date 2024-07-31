@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello B1
+=======
+Hello From B2
+>>>>>>> B-2
